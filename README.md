@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NotSoSeriouss
 - 👀 I’m interested in Game Development and AIs
-- 🌱 I’m currently learning Java, C++ and Php
+- 🌱 I’m currently learning Golang, C and Javascript
